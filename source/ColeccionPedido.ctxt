@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ColeccionPedido
+comment0.text=\n\ Write\ a\ description\ of\ class\ ColeccionPedidos\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ColeccionPedido()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ColeccionPedidos\n
+comment2.params=_cliente\ _logistica\ prod\ cantidadKg\ _destino\ _distancia\ fechaCompra\ fechaEntregaEstimada
+comment2.target=Pedido\ crear(Cliente,\ Logistica,\ Producto,\ double,\ java.lang.String,\ int,\ java.time.LocalDate,\ java.time.LocalDate)
+comment3.params=id
+comment3.target=void\ eliminar(int)
+comment4.params=id
+comment4.target=Pedido\ get(int)
+comment5.params=cliente
+comment5.target=java.util.List\ get(Cliente)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ PrintToString()
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ColeccionProducto
+comment0.text=\n\ Write\ a\ description\ of\ class\ ColeccionProducto\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ColeccionProducto()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ColeccionProducto\n
+comment2.params=nName\ nRendimiento\ nPerenne\ precio
+comment2.target=Producto\ crear(java.lang.String,\ java.lang.Double,\ boolean,\ double)
+comment3.params=id
+comment3.target=void\ eliminar(int)
+comment4.params=id
+comment4.target=Producto\ get(int)
+comment5.params=nombre
+comment5.target=Producto\ get(java.lang.String)
+comment6.params=
+comment6.target=void\ imprimirPrecios()
+comment7.params=
+comment7.target=void\ revisarPrecios()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

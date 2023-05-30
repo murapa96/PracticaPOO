@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ColeccionProductor
+comment0.text=\n\ Write\ a\ description\ of\ class\ ColeccionProductor\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=limiteHectareas
+comment1.target=ColeccionProductor(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ColeccionProductor\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=_nombre\ _hectareas
+comment2.target=Productor\ crear(java.lang.String,\ double)
+comment3.params=_nombre\ productoFederado
+comment3.target=ProductorFederado\ crearFederado(java.lang.String,\ Producto)
+comment4.params=id
+comment4.target=void\ eliminar(int)
+comment5.params=id
+comment5.target=Productor\ get(int)
+comment6.params=nombre
+comment6.target=Productor\ get(java.lang.String)
+comment7.params=producto
+comment7.target=ProductorFederado\ getFederado(Producto)
+comment8.params=producto
+comment8.target=java.util.List\ get(Producto)
+comment9.params=tipo
+comment9.target=java.util.List\ filtrarProductores(TipoProductor)
+numComments=11

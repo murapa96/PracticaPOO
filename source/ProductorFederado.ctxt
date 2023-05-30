@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProductorFederado
+comment0.text=\n\ Write\ a\ description\ of\ class\ ProductorFederado\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_id\ _nombre\ _productoFederado
+comment1.target=ProductorFederado(int,\ java.lang.String,\ Producto)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ProductorFederado\n
+comment2.params=productorMiembro\ hectareasMiembro
+comment2.target=void\ a\u00F1adirMiembro(Productor,\ double)
+comment3.params=productorMiembro
+comment3.target=void\ eliminarMiembro(Productor)
+comment4.params=
+comment4.target=Producto\ getProductoFederado()
+numComments=5

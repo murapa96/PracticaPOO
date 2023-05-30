@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Peque\u00F1oProductor
+comment0.text=\n\ Write\ a\ description\ of\ class\ Peque\u00F1oProductor\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_id\ _nombre\ _hectareas
+comment1.target=Peque\u00F1oProductor(int,\ java.lang.String,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Peque\u00F1oProductor\n
+comment2.params=producto\ hectareasCultivo
+comment2.target=void\ a\u00F1adirPlantacion(Producto,\ double)
+numComments=3

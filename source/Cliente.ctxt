@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cliente\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_id\ _nombre\ _tipo\ _localizacion
+comment1.target=Cliente(int,\ java.lang.String,\ TipoCliente,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cliente\n
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=TipoCliente\ getTipo()
+comment6.params=tipo
+comment6.target=void\ setTipo(TipoCliente)
+comment7.params=
+comment7.target=java.lang.String\ getLocalizacion()
+comment8.params=localizacion
+comment8.target=void\ setLocalizacion(java.lang.String)
+numComments=9

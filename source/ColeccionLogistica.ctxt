@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ColeccionLogistica
+comment0.text=\n\ Write\ a\ description\ of\ class\ ColeccionLogistica\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ColeccionLogistica()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ColeccionLogistica\n
+comment2.params=_nombre\ _precioGran\ _precioPeque\u00F1a
+comment2.target=Logistica\ crear(java.lang.String,\ double,\ double)
+comment3.params=id
+comment3.target=void\ eliminar(int)
+comment4.params=id
+comment4.target=Logistica\ get(int)
+comment5.params=nombre
+comment5.target=Logistica\ get(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ PrintToString()
+numComments=8
